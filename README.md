@@ -1,0 +1,3 @@
+# threeWebvr
+基于threejs和webvr的全景图和vr模型示例
+1.index.html是基于threejs和CSS3DRenderer.js制作的全景图示例。index1.html是threejs和WebVR api制作的VR案例。
